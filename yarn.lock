@@ -5362,9 +5362,9 @@ gatsby-page-utils@^0.0.30:
     micromatch "^3.1.10"
     slash "^3.0.0"
 
-gatsby-plugin-advanced-sitemap@alexthewilde/gatsby-plugin-advanced-sitemap#master:
+"gatsby-plugin-advanced-sitemap@github:alexthewilde/gatsby-plugin-advanced-sitemap#master":
   version "1.4.5"
-  resolved "https://codeload.github.com/alexthewilde/gatsby-plugin-advanced-sitemap/tar.gz/29d4b7123262cc4eb7fa064fa71aab2060dfa164"
+  resolved "https://codeload.github.com/alexthewilde/gatsby-plugin-advanced-sitemap/tar.gz/6b4cc73337b6994a796efe0a67d3b26295042ce3"
   dependencies:
     "@babel/runtime" "7.6.3"
     fs-extra "8.1.0"
