@@ -33,6 +33,7 @@ module.exports = {
     siteMetadata: {
         siteUrl: config.siteUrl,
     },
+    pathPrefix: `/docs`,
     plugins: [
         /**
          *  Content Plugins
