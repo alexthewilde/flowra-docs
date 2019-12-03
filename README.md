@@ -1,3 +1,19 @@
+Not used anymore, but kept for reference: a working example of how to run Gatsby
+on Netfliy from a subdirectory.
+
+**Issue**: Netlify doesn't serve the files at /[subdirectory].
+Workaround: copy the files from `/public` into `/pubilc/[subdirectory]` using
+`netlify-postbuild.sh`.
+See `netlify.toml` build command `yarn netlify-build`.
+
+**Issue**: gatsby-plugin-advanced-sitemap doesn't work with path prefix.
+https://github.com/TryGhost/gatsby-plugin-advanced-sitemap/issues/13
+Workaround: our own fork alexthewilde/gatsby-plugin-advanced-sitemap.
+
+
+---
+
+
 # Gatsby Starter Ghost
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
