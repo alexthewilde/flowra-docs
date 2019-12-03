@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://flowra-blog.herokuapp.com/docs",
-    "contentApiKey": "604235aa12bfac2a0c51afa42b"
+    "apiUrl": "https://flowra-cms.herokuapp.com",
+    "contentApiKey": "6a6cf1cb93084c1d0b23147130"
   },
   "production": {
-    "apiUrl": "https://flowra-blog.herokuapp.com/docs",
-    "contentApiKey": "604235aa12bfac2a0c51afa42b"
+    "apiUrl": "https://flowra-cms.herokuapp.com",
+    "contentApiKey": "6a6cf1cb93084c1d0b23147130"
   }
 }
